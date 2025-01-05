@@ -1,0 +1,12 @@
+Nombre: Maikin Custodio
+Matrícula: 2023-0297
+Carrera: Desarro de Software
+Materia: Prog. Web
+Nota: 95
+-----------------------------------
+Nombre: Alejandro Garcia
+Matrícula: 2023-2024
+Carrera:  Mecatronica
+Materia: Fundamentos de la electronica
+Nota: 92
+-----------------------------------
